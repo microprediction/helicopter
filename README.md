@@ -41,6 +41,9 @@ See [helicopter/exploratory/helicopula.py](https://github.com/microprediction/he
 
    https://github.com/microprediction/PDCI/blob/master/helicopula.ipynb
    
+## Or video tutorials
 
+New video tutorials are available at https://www.microprediction.com/python-1 to help you
+get started running crawlers at www.microprediction.com
    
 
